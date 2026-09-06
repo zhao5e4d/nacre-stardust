@@ -2,6 +2,8 @@
 
 一个以原创硬表面星舰「游隼 P–04」为主角的浏览器 3D 小游戏。
 
+在线体验：[NACRE 星隙 — 深空突围](https://nacre-peregrine-stardust.zhao5e4d.chatgpt.site)（当前为仓库所有者私有访问）
+
 ## 打开游戏
 
 Windows 双击 **Start Game.cmd**，会启动本地服务并打开浏览器。当前项目已提供构建后的静态网页，默认地址为 **http://127.0.0.1:4173/**。
