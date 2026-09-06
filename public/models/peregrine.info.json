@@ -1,0 +1,12 @@
+{
+  "name": "Peregrine_Mk_IV",
+  "parts": 679,
+  "triangles": 36364,
+  "drawCalls": 12,
+  "dimensions": [
+    14.813106536865234,
+    4.016781806945801,
+    18.09031105041504
+  ],
+  "bytes": 3503820
+}
